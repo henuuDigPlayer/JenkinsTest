@@ -1,0 +1,7 @@
+server:
+  port: 23501
+  servlet:
+    context-path: /jenkins-test
+spring:
+  application:
+    name: jenkins-test
